@@ -1,5 +1,5 @@
 
-# Jenkins CI Pipeline for Spring Boot Application
+# Jenkins CI Pipeline using Maven,Sonarqube and Docker
 
 This repository contains a Jenkins pipeline that automates the Continuous Integration (CI) process for a Spring Boot application. It uses Maven for building and testing, SonarQube for static code analysis, and Docker for containerization.
 
