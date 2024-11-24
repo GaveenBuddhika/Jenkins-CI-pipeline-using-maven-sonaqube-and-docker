@@ -5,6 +5,8 @@ This repository contains a Jenkins pipeline that automates the Continuous Integr
 
 ---
 
+![CI](https://github.com/user-attachments/assets/1af53626-8c63-40de-9eba-c8a7d16396f3)
+
 ## Pipeline Overview
 
 This Jenkins pipeline sets up a CI/CD process for a Spring Boot application, leveraging Docker, Maven, and SonarQube. It consists of multiple stages to ensure code quality, create Docker images, and push them to a Docker registry.
