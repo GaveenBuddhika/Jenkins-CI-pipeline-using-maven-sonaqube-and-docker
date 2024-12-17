@@ -19,7 +19,7 @@ This Jenkins pipeline sets up a CI/CD process for a Spring Boot application, lev
   - **Docker installed** to run Docker-based agents.
   - **SonarQube server running** and accessible.
   - **Docker Hub account credentials** stored in Jenkins (e.g., with the ID `docker-cred`).
-- A custom Docker image (`abhishekf5/maven-abhishek-docker-agent:v1`) that supports Maven and Docker commands.
+  - **A custom Docker image** (`abhishekf5/maven-abhishek-docker-agent:v1`) that supports Maven and Docker commands.
 
 ---
 
